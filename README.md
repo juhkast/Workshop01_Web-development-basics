@@ -1,5 +1,10 @@
 # Workshop 01: Web Development Basics
 
+Web Development 2 – Full Stack  
+Laurea University of Applied Sciences
+
+Lecturer: Juho Kastemaa
+
 Welcome to your first web development workshop! In this workshop, you'll learn the fundamentals of HTML, CSS, and responsive design by completing 5 hands-on tasks. 
 
 
